@@ -1,0 +1,22 @@
+{
+  "locais": [
+    {
+      "id": 1,
+      "nome": "Teresina",
+      "descricao": "A capital do Piauí, conhecida como a Cidade Verde.",
+      "preco": 450.00
+    },
+    {
+      "id": 2,
+      "nome": "Litoral Piauiense",
+      "descricao": "Praias paradisíacas e o famoso Delta do Parnaíba.",
+      "preco": 780.50
+    },
+    {
+      "id": 3,
+      "nome": "Serra da Capivara",
+      "descricao": "Sítio arqueológico com pinturas rupestres históricas.",
+      "preco": 620.00
+    }
+  ]
+}
