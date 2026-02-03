@@ -2,24 +2,38 @@
   "locais": [
     {
       "id": 1,
-      "nome": "Teresina",
-      "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnFWbx2BpYGHkLk3aRleiTckriLELOKp4AOw&s",
-      "descricao": "Conhecida como a Cidade Verde, Teresina oferece parques naturais exuberantes e o encontro dos rios Poti e Parnaíba.",
-      "preco": 450.00
+      "nome": "Canions do viana (07/02 e 08/02)",
+      "link": "https://www.viagensecaminhos.com/wp-content/uploads/2024/08/canions-do-viana.jpg",
+      "descricao": "Descubra paredões de rocha avermelhada esculpidos pelo tempo em um dos destinos mais cinematográficos do Brasil. Localizados em Bom Jesus (pacote inclui hospedagem, guia e cafe da manhã).",
+      "preco": 900,00
     },
     {
       "id": 2,
-      "nome": "Litoral Piauiense",
-      "link": "https://images.unsplash.com/photo-1590523277543-a94d2e4eb00b?q=80&w=1000",
-      "descricao": "Explore o Delta do Parnaíba e as praias paradisíacas de Luís Correia, com areias brancas e águas mornas o ano todo.",
-      "preco": 780.50
+      "nome": "Litoral Piauiense (14/02 a 17/02)",
+      "link": "https://www.atins.me/wp-content/uploads/2011/09/9075514415_5a4c406ee0_o_952x476.jpg",
+      "descricao": "Explore o Delta do Parnaíba e as praias paradisíacas de Luís Correia, com areias brancas e águas mornas o ano todo (pacote inclui hospedagem, passeio de barco e translado).",
+      "preco": 1500,00
     },
     {
       "id": 3,
-      "nome": "Serra da Capivara",
-      "link": "https://images.unsplash.com/photo-1582234032482-140224679782?q=80&w=1000",
-      "descricao": "Um mergulho na história com o maior acervo de pinturas rupestres das Américas em meio a formações rochosas impressionantes.",
+      "nome": "Serra da Capivara (07/03 e 08/03),
+      "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRksHOwGpOTUR3tlsXMQthiD9CpCqMAgWFcLA&s",
+      "descricao": "Um mergulho na história com o maior acervo de pinturas rupestres das Américas em meio a formações rochosas impressionantes (pacote inclui hospedagem, guia e translado).",
+      "preco": 800.00
+    },
+    {
+      "id": 4,
+      "nome": "Sete cidades (28/03 e 29/03)",
+      "link": "https://www.viagensecaminhos.com/wp-content/uploads/2024/08/parque-nacional-de-sete-cidades.jpg",
+      "descricao": "Explore um dos parques nacionais mais fascinantes do Brasil! Dividido em sete "cidades" de formações rochosas peculiares, o parque reúne arte rupestre milenar e monumentos naturais que desafiam a imaginação (pacote inclui hospedagem, guia e translado).",
       "preco": 620.00
+    },
+    {
+      "id": 5,
+      "nome": "Cannions do Poty (25/04 e 26/04) ",
+      "link": "https://admin.pi.gov.br/uploads/canionpoti_f3f3b9fdf3.jpeg",
+      "descricao": "Descubra um dos cânions mais profundos e intocados do Nordeste. Em um trajeto de águas calmas cercado por paredões de até 60 metros de altura, você encontrará cavernas, gravuras rupestres e uma fauna vibrante (pacote inclui hospedagem, passeio de barco e translado).",
+      "preco": 550.00
     }
   ]
 }
