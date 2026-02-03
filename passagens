@@ -3,19 +3,22 @@
     {
       "id": 1,
       "nome": "Teresina",
-      "descricao": "A capital do Piauí, conhecida como a Cidade Verde.",
+      "link": "https://images.unsplash.com/photo-1629814249584-bd4d53cf0e7d?q=80&w=1000",
+      "descricao": "Conhecida como a Cidade Verde, Teresina oferece parques naturais exuberantes e o encontro dos rios Poti e Parnaíba.",
       "preco": 450.00
     },
     {
       "id": 2,
       "nome": "Litoral Piauiense",
-      "descricao": "Praias paradisíacas e o famoso Delta do Parnaíba.",
+      "link": "https://images.unsplash.com/photo-1590523277543-a94d2e4eb00b?q=80&w=1000",
+      "descricao": "Explore o Delta do Parnaíba e as praias paradisíacas de Luís Correia, com areias brancas e águas mornas o ano todo.",
       "preco": 780.50
     },
     {
       "id": 3,
       "nome": "Serra da Capivara",
-      "descricao": "Sítio arqueológico com pinturas rupestres históricas.",
+      "link": "https://images.unsplash.com/photo-1582234032482-140224679782?q=80&w=1000",
+      "descricao": "Um mergulho na história com o maior acervo de pinturas rupestres das Américas em meio a formações rochosas impressionantes.",
       "preco": 620.00
     }
   ]
