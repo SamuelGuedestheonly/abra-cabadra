@@ -1,0 +1,39 @@
+{
+  "locais": [
+    {
+      "id": 1,
+      "nome": "Canions do viana (07/02 e 08/02)",
+      "link": "https://www.viagensecaminhos.com/wp-content/uploads/2024/08/canions-do-viana.jpg",
+      "descricao": "Descubra paredões de rocha avermelhada esculpidos pelo tempo em um dos destinos mais cinematográficos do Brasil (pacote inclui hospedagem, guia e translado).",
+      "preco": 900.00
+    },
+    {
+      "id": 2,
+      "nome": "Litoral Piauiense (14/02 a 17/02)",
+      "link": "https://www.atins.me/wp-content/uploads/2011/09/9075514415_5a4c406ee0_o_952x476.jpg",
+      "descricao": "Explore o Delta do Parnaíba e as praias paradisíacas de Luís Correia, com areias brancas e águas mornas (pacote inclui hospedagem, passeio de barco e translado) .",
+      "preco": 1500.00
+    },
+    {
+      "id": 3,
+      "nome": "Serra da Capivara (07/03 e 08/03)",
+      "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRksHOwGpOTUR3tlsXMQthiD9CpCqMAgWFcLA&s",
+      "descricao": "Um mergulho na história com o maior acervo de pinturas rupestres das Américas (pacote inclui hospedagem, guia e translado).",
+      "preco": 800.00
+    },
+    {
+      "id": 4,
+      "nome": "Sete cidades (28/03 e 29/03)",
+      "link": "https://www.viagensecaminhos.com/wp-content/uploads/2024/08/parque-nacional-de-sete-cidades.jpg",
+      "descricao": "Explore um dos parques nacionais mais fascinantes do Brasil com formações rochosas peculiares (pacote inclui hospedagem, guia e translado).",
+      "preco": 620.00
+    },
+    {
+      "id": 5,
+      "nome": "Cannions do Poty (25/04 e 26/04)",
+      "link": "https://admin.pi.gov.br/uploads/canionpoti_f3f3b9fdf3.jpeg",
+      "descricao": "Descubra um dos cânions mais profundos e intocados do Nordeste com paredões de até 60 metros (pacote inclui hospedagem, passeio de barco e translado).",
+      "preco": 550.00
+    }
+  ]
+}
